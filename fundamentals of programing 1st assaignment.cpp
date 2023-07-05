@@ -1,3 +1,9 @@
+
+/*
+Name    Zubair Ahmed 
+father name Zahoor Ahmed
+Roll    num 23 
+	*/
 #include <stdio.h>
 int isprime(int num)
 {
@@ -32,4 +38,3 @@ int main() {
     }
     return 0;
 }
-
